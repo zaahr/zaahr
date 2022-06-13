@@ -45,8 +45,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Github stats
 
 ![Zaahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaahr&show_icons=true)
 
