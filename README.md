@@ -3,11 +3,17 @@
 [![Website](https://img.shields.io/website?label=zaahir.me&style=for-the-badge&url=https%3A%2F%2Fzaahir.me)](https://zaahir.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aimingfast?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
+<br/>
+<br/>
+
 ### Connect with me:
 
 <img align="left" alt ="zaahir.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt ="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt ="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br/>
+<br/>
 
 ### Languages and Tools:
 
